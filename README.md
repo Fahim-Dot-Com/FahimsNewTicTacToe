@@ -22,6 +22,7 @@ This is a simple **Tic Tac Toe** game built using HTML, CSS, and JavaScript. The
 
 ---
 ## 📷 Preview
+Mimo IDE
 ![Screenshot_20250605_115203_Mimo](https://github.com/user-attachments/assets/d6ff6c7b-839a-46f1-96e1-754040778a5e)
 
 ## 🗣Languages I used
@@ -29,8 +30,16 @@ This is a simple **Tic Tac Toe** game built using HTML, CSS, and JavaScript. The
 -HTML
 -CSS
 
-## 🍿Credit and copy 
-```
+## 🔨 What I used
+- Mimo IDE
+- Latest versions of JS,CSS and HTML.
+- Can be used in Visual Studio Code if possible.
+- Lastly make sure to update any IDE's to the latest version so the code work!
 
+
+## 🍿Credit and copy and Bash
+```
+https://github.com/Fahim-Dot-Com/FahimsNewTicTacToe/blob/main/README.md
+```
 
 
