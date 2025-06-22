@@ -24,6 +24,10 @@ This is a simple **Tic Tac Toe** game built using HTML, CSS, and JavaScript. The
 ## 📷 Preview
 ![Screenshot_20250605_115203_Mimo](https://github.com/user-attachments/assets/d6ff6c7b-839a-46f1-96e1-754040778a5e)
 
+## 🗣Languages I used
+-JavaScript 
+-HTML
+-CSS
 
 ## 📁 File Structure
 
