@@ -29,6 +29,8 @@ This is a simple **Tic Tac Toe** game built using HTML, CSS, and JavaScript. The
 -HTML
 -CSS
 
-## 📁 File Structure
+## 🍿Credit and copy 
+```
+
 
 
