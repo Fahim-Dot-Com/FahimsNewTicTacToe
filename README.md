@@ -41,5 +41,10 @@ Mimo IDE
 ```
 https://github.com/Fahim-Dot-Com/FahimsNewTicTacToe/blob/main/README.md
 ```
+## 💁‍♂️ See my other related projects!
 
+(Old)
+https://github.com/Fahim-Dot-Com/TicTacToe
+
+https://github.com/Fahim-Dot-Com/MyMegaReadMe
 
