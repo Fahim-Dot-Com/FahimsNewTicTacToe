@@ -1,4 +1,5 @@
 # FahimsNewTicTacToe
+Note: This is a puzzle made for practice for my students
 
 This is a simple **Tic Tac Toe** game built using HTML, CSS, and JavaScript. The game features a 3x3 grid where two players take turns. The current version is player vs player (PvP), but the code is intended to support future implementation of AI for single-player mode.
 
